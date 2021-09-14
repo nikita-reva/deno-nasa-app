@@ -1,7 +1,7 @@
 # deno-nasa-app
 Exploring Deno.
 
-I was taking a first look into Deno. The app is built with the Oak framework and deployed as a Docker container to AWS.
+I was taking a first look into Deno. The api is built with the Oak framework and deployed as a Docker container to AWS.
 
 It can be accessed [here](http://52.59.217.74:8000/index.html).
 
